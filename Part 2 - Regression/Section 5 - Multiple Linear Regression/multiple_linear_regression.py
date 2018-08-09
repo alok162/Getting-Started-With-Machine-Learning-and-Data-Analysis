@@ -8,7 +8,7 @@ Created on Fri Aug  3 08:21:37 2018
 
 # Multiple Linear Regression
 
-# importing libraries
+# importing libraries 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
